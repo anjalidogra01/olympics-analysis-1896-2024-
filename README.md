@@ -24,16 +24,16 @@ streamlit run app.py
 ## 📸 App Screenshots
 
 ### 🏅 Medal Tally
-![Medal Tally](screenshots/medal_tally.jpeg)
+![Medal Tally](/screenshots/medal_tally.jpeg)
 
 ### 🥇 Overall Analysis
-![Overall Analysis](screenshots/overall_analysis.jpeg)
+![Overall Analysis](/screenshots/overall_analysis.jpeg)
 
 ### 🌍 Country-wise Analysis
-![Country Analysis](screenshots/country_wise_analysis.jpeg)
+![Country Analysis](/screenshots/country_wise_analysis.jpeg)
 
 ### 🏆 Sport-wise Analysis
-![Sport Analysis](screenshots/sport_wise_analysis.jpeg)
+![Sport Analysis](/screenshots/sport_wise_analysis.jpeg)
 
 ### 👩‍🦰 Gender Analysis
-![Gender Analysis](screenshots/gender_wise_analysis.jpeg)
+![Gender Analysis](/screenshots/gender_wise_analysis.jpeg)
