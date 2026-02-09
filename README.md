@@ -16,12 +16,11 @@ An interactive data analysis project built using **Python, Pandas, Plotly, and S
 - Streamlit
 
 ## How to Run
-```bash
+
 pip install -r requirements.txt
 streamlit run app.py
 
-
-## 📸 App Screenshots
+##
 
 ### 🏅 Medal Tally
 ![Medal Tally](/screenshots/medal_tally.jpeg)
@@ -37,3 +36,4 @@ streamlit run app.py
 
 ### 👩‍🦰 Gender Analysis
 ![Gender Analysis](/screenshots/gender_wise_analysis.jpeg)
+```bash
