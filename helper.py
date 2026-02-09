@@ -179,7 +179,7 @@ def gender_participation(df):
 
 def gender_medal_distribution(df):
     temp_df = df.dropna(subset=['Medal'])
-    temp = temp.drop_duplicates(
+    temp_df = temp_df.drop_duplicates(
         subset=['Team','NOC','Year','Sport','Event','Medal'])
     result = (
     temp_df.groupby('Sex')['Medal'].count().reset_index(name='Medals'))
